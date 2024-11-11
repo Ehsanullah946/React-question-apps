@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ehsanullah946/React-question-apps/static/css/main.8b01807f.css",
+    "main.js": "/Ehsanullah946/React-question-apps/static/js/main.77a56dba.js",
+    "index.html": "/Ehsanullah946/React-question-apps/index.html",
+    "main.8b01807f.css.map": "/Ehsanullah946/React-question-apps/static/css/main.8b01807f.css.map",
+    "main.77a56dba.js.map": "/Ehsanullah946/React-question-apps/static/js/main.77a56dba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b01807f.css",
+    "static/js/main.77a56dba.js"
+  ]
+}
